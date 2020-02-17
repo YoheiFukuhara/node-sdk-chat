@@ -5,5 +5,3 @@ applications:
       - nodejs_buildpack
     memory: 256M
     command: npm run start:prod
-    routes: 
-    - route: node-sdk-chat-grumpy-lizard-fn.cfapps.eu10.hana.ondemand.com
